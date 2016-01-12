@@ -1,0 +1,28 @@
+[general]
+creator=R package 'raster'
+created=2016-01-12 15:43:00
+[georeference]
+nrows=407
+ncols=419
+xmin=142700.316690598
+ymin=5606083.86998579
+xmax=530956.373140992
+ymax=5983220.42123952
+projection=+proj=sinu +lon_0=0 +x_0=0 +y_0=0 +a=6371007.181 +b=6371007.181 +units=m +no_defs
+[data]
+datatype=FLT8S
+byteorder=little
+nbands=1
+bandorder=BIL
+categorical=FALSE
+minvalue=-2000
+maxvalue=9885
+nodatavalue=-1.7e+308
+[legend]
+legendtype=
+values=
+color=
+[description]
+layername=August
+zvalues=z-value:2014-01-01
+zclass=Date
